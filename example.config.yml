@@ -1,0 +1,4 @@
+username: "ebay_username"
+password: "ebay_password"
+path: "www.ebay.com"
+file_path: "your_import_path"
